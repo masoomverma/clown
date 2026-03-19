@@ -1,0 +1,32 @@
+.idea/
+
+# CMake and Ninja build output
+/cmake-build-*/
+/debug-build/
+/build/
+/out/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/build.ninja
+/compile_commands.json
+/Testing/
+
+# Generated binaries and debug artifacts
+*.exe
+*.dll
+*.lib
+!lib/pdcurses.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.idb
+*.ipdb
+*.iobj
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.cache
