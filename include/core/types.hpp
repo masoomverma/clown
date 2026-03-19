@@ -1,0 +1,4 @@
+#ifndef CLOWN_CONFIG_HPP
+#define CLOWN_CONFIG_HPP
+
+#endif //CLOWN_CONFIG_HPP
